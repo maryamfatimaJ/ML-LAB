@@ -1,6 +1,6 @@
 # ML-LAB 🧠
 
-This repository contains Machine Learning Lab work focused on **Data Preprocessing** — a fundamental step before model building. These lab exercises are a part of my university coursework for the BS-AI (Bachelor of Science in Artificial Intelligence) 3rd semester.
+This repository contains Machine Learning Lab work focused on **Data Preprocessing** — a fundamental step before model building. These lab exercises are a part of my university coursework for the BS-AI (Bachelor of Science in Artificial Intelligence) 4th semester.
 
 ---
 
